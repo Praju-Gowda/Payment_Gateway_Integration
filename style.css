@@ -11,7 +11,7 @@ body{
     align-items: center;
     justify-content: center;
     flex-flow: column;
-    background:url(image/Capture\ 2021-06-19\ 21.10.47.jpg) no-repeat;
+    background:url(Capture\ 2021-06-19\ 21.10.47.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -180,7 +180,7 @@ html::-webkit-scrollbar-thumb{
 	left: 0;
     height:12rem;
     width:100%;
-    background:url(image/shape.png);
+    background:url(shape.png);
     block-size: 100rem 15rem;
     filter: drop-shadow(0 -.1rem .1rem rgba(0,0,0,.2));
     animation: animate 10s linear infinite;
